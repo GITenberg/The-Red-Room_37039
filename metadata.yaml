@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1609
     wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37039#The-Red-Room
 gutenberg_issued: '2011-08-11'
 gutenberg_type: Text
 identifiers:
